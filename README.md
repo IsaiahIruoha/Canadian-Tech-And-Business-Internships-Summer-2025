@@ -16,7 +16,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 ⚠️ Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide 🌎. 
 
-⚠️ Additionally, business internships tend to be posted earlier in the season then tech roles ⏳. 
+⚠️ Additionally, business internships tend to be posted earlier in the season than tech roles ⏳. 
 
 🔒 - Indicates that internship applications are closed.
 
@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Status | Date Posted |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/17250)** | nvestment Banking Summer Analyst | Toronto | Unknown | Feb 22 |
 | **[Fidelity](https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Equity-Research-Intern---Summer-2025_J46305)** | Equity Research Intern | Toronto | Unknown | Feb 22 |
 | **[Barclays](https://search.jobs.barclays/job/-/-/22545/60783138640?src=JB-12860)** | Banking Analyst Internship | Toronto | Unknown  | Feb 22 |
 | **[Royal Bank of Canada (RBC)](https://jobs.rbc.com/ca/en/job/R-0000074210/2025-Capital-Markets-Global-Investment-Banking-Summer-Analyst-4-Months)** | Investment Banking Summer Analyst | Toronto | July 31  | Feb 22 |
