@@ -1,8 +1,8 @@
 # Canadian Tech And Business Internships - Summer 2025
 
-![Tech And Business Internships Summer 2025](https://github.com/IsaiahIruoha/Canadian-Tech-And-Business-Internships-Summer-2025/blob/main/assets/background.jpg)
+![Technology And Business Internships Summer 2025](https://github.com/IsaiahIruoha/Canadian-Tech-And-Business-Internships-Summer-2025/blob/main/assets/background.jpg)
 
-Welcome to a curated collection of **technology** and **business-related** internships for the **Summer 2025** term in Canada!
+Welcome to a extensive collection of **technology** and **business-related** internships for the **Summer 2025** term in Canada!
 
 This repository serves as a hub for internship opportunities in Canada, specifically tailored for individuals interested in roles related to **technology** and **business**, as well as related fields. Internship postings will be regularly updated, and contributions from the community are highly encouraged.
 
