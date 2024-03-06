@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Status | Date Posted |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[PwC](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Toronto/May-2025---Assurance-CPA---Summer-Intern---Toronto_514166WD)** | Assurance CPA | Toronto | Unknown | Mar 5 |
 | **[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/17250)** | Investment Banking Summer Analyst | Toronto | Unknown | Feb 22 |
 | **[Fidelity](https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Equity-Research-Intern---Summer-2025_J46305)** | Equity Research Intern | Toronto | Unknown | Feb 22 |
 | **[Barclays](https://search.jobs.barclays/job/-/-/22545/60783138640?src=JB-12860)** | Banking Analyst Internship | Toronto | Unknown  | Feb 22 |
