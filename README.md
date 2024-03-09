@@ -25,7 +25,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 | Company | Role | Location | Status | Date Posted |
 | ------- | ---- | -------- | ------ | ----------- |
 | **[Bank of America](https://campus.bankofamerica.com/careers/canada__toronto__global_corporate_banking_summer_analyst_program__2025.html)** | Summer Analyst | Toronto | Mar 27 | Mar 9 |
-| **[Scotiabank](https://www.linkedin.com/jobs/view/gbm-investment-banking-intern-co-op-summer-2025-at-scotiabank-3843048048/)** | Investment Banking | Montreal | March 24 | Mar 9 |
+| **[Scotiabank](https://www.linkedin.com/jobs/view/gbm-investment-banking-intern-co-op-summer-2025-at-scotiabank-3843048048/)** | Investment Banking | Montreal | Mar 24 | Mar 9 |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montreal-QC/Global-Investment-Banking--Summer-2025-Analyst--Montreal----Bilingual_2405926?source=LinkedIn)** | Investment Banking (Bilingual) | Montreal | Mar 17 | Mar 9 |
 | **[PwC](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Toronto/May-2025---Assurance-CPA---Summer-Intern---Toronto_514166WD)** | Assurance CPA | Toronto | Unknown | Mar 5 |
 | **[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/17250)** | Investment Banking Summer Analyst | Toronto | Unknown | Feb 22 |
@@ -34,6 +34,6 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 | **[Royal Bank of Canada (RBC)](https://jobs.rbc.com/ca/en/job/R-0000074210/2025-Capital-Markets-Global-Investment-Banking-Summer-Analyst-4-Months)** | Investment Banking Summer Analyst | Toronto | July 31  | Feb 22 |
 | **[Royal Bank of Canada (RBC)](https://jobs.rbc.com/ca/en/job/R-0000074262/2025-Capital-Markets-Global-Markets-Program-Summer-Analyst-4-Months)** | Global Markets Program Summer Analyst | Toronto | July 31 | Feb 22 |
 | **[Bank of Montreal (BMO)](https://jobs.bmo.com/ca/en/job/R240004135/2025-Summer-Internship-Diversity-Scholarship-Global-Markets-Analyst-Generalist-Intern)** | Diversity Global Markets Analyst (Generalist) Intern | Toronto | Mar 13 | Feb 22 |
-| **[Bank of Montreal (BMO)](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/XMLNAME-2025-Summer-Internship-Diversity-Scholarship---Global-Markets-Analyst--Quantitative-Developer--Intern_R240004142-1?)** | Diversity Global Markets Analyst (Quantitative/Developer) Intern | Toronto | March 13 | Feb 22 |
+| **[Bank of Montreal (BMO)](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/XMLNAME-2025-Summer-Internship-Diversity-Scholarship---Global-Markets-Analyst--Quantitative-Developer--Intern_R240004142-1?)** | Diversity Global Markets Analyst (Quantitative/Developer) Intern | Toronto | Mar 13 | Feb 22 |
 | **[Bank of Montreal (BMO)](https://jobs.bmo.com/ca/en/job/R240004125/2025-Summer-Internship-Diversity-Scholarship-Investment-Banking-Analyst-Intern)** | Diversity Investment Banking Analyst Intern | Toronto | Mar 13 | Feb 22 |
 | **[Bank of Montreal (BMO)](https://jobs.bmo.com/ca/en/job/R240004133/2025-Summer-Internship-Diversity-Scholarship-Corporate-Banking-Analyst-Intern)** | Diversity Corporate Banking Analyst Intern | Toronto | Mar 13 | Feb 22 |
