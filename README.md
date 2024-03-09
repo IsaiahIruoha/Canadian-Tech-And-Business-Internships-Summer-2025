@@ -14,11 +14,11 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 2. Edit the README.md file and preview your changes to ensure proper formatting.
 3. Open a pull request, and your contribution will be reviewed and merged.
 
-⚠️ Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide 🌎. 
+⚠️ - Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide 🌎. 
 
-⚠️ Additionally, business internships tend to be posted earlier in the season than tech roles ⏳. 
+⚠️ - Additionally, business internships tend to be posted earlier in the season than tech roles ⏳. 
 
-🔒 - Indicates that internship applications are closed.
+⚠️ - Indicates that internship applications are closed 🔒. 
 
 # 💼 Best of luck on your summer 2025 job search!
 
