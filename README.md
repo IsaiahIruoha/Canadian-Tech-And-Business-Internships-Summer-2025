@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Status | Date Posted |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[KPMG](https://careers.kpmg.ca/jobs/23391?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn)** | Risk Consulting | Toronto | Apr 7 | Mar 24 |
 | **[Bank of America](https://campus.bankofamerica.com/careers/canada__toronto__global_corporate_banking_summer_analyst_program__2025.html)** | Summer Analyst | Toronto | Mar 27 | Mar 9 |
 | **[Scotiabank](https://www.linkedin.com/jobs/view/gbm-investment-banking-intern-co-op-summer-2025-at-scotiabank-3843048048/)** | Investment Banking | Montreal | Mar 24 | Mar 9 |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montreal-QC/Global-Investment-Banking--Summer-2025-Analyst--Montreal----Bilingual_2405926?source=LinkedIn)** | Investment Banking (Bilingual) | Montreal | Mar 17 | Mar 9 |
