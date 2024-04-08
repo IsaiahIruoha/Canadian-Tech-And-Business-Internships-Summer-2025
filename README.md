@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 | **[Bank of America](https://campus.bankofamerica.com/careers/canada__toronto__global_corporate_banking_summer_analyst_program__2025.html)** | Summer Analyst | Toronto | 🔒 | Mar 9 |
 | **[Scotiabank](https://www.linkedin.com/jobs/view/gbm-investment-banking-intern-co-op-summer-2025-at-scotiabank-3843048048/)** | Investment Banking | Montreal | 🔒 | Mar 9 |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montreal-QC/Global-Investment-Banking--Summer-2025-Analyst--Montreal----Bilingual_2405926?source=LinkedIn)** | Investment Banking (Bilingual) | Montreal | 🔒 | Mar 9 |
+| **[National Bank](https://www.salary.com/ca-job/national-bank-of-canada/summer-2025-analyst-corporate-investment-banking/j202402230446051073152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Corporate & Investment Banking | Calgary | 🔒 | Mar 6 |
 | **[PwC](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Toronto/May-2025---Assurance-CPA---Summer-Intern---Toronto_514166WD)** | Assurance CPA | Toronto | Unknown | Mar 5 |
 | **[Morgan Stanley](https://morganstanley.tal.net/vx/candidate/apply/17250)** | Investment Banking Summer Analyst | Toronto | Unknown | Feb 22 |
 | **[Fidelity](https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Equity-Research-Intern---Summer-2025_J46305)** | Equity Research Intern | Toronto | Unknown | Feb 22 |
