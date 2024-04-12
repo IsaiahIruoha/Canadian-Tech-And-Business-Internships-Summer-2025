@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Status | Date Posted |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Deloitt](https://careers.deloitte.ca/job/Multiple-Locations%2C-Canada-Audit-&-Assurance-Co-opIntern-2025-Multiple-Locations/1132017000/)** | Audit & Assurance | Multiple Locations | Apr 30 | Apr 12 |
 | **[KPMG](https://careers.kpmg.ca/jobs/23391?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn)** | Risk Consulting | Toronto | Apr 7 | Mar 24 |
 | **[Bank of America](https://campus.bankofamerica.com/careers/canada__toronto__global_corporate_banking_summer_analyst_program__2025.html)** | Summer Analyst | Toronto | 🔒 | Mar 9 |
 | **[Scotiabank](https://www.linkedin.com/jobs/view/gbm-investment-banking-intern-co-op-summer-2025-at-scotiabank-3843048048/)** | Investment Banking | Montreal | 🔒 | Mar 9 |
