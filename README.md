@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 23 | May 5 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Quantitative Developer | Toronto | Apr 23 | Apr 30 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Generalist Summer Analyst | Toronto | Apr 23 | Apr 30 |
 | **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Investment-Banking-Summer-Analyst--Summer-2025-_R_1342828?source=Linkedin)** | Investment Banking | Toronto | Apr 23 | May 3 |
