@@ -24,6 +24,11 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Quantitative Developer | Toronto | Apr 23 | Apr 30 |
+| **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Generalist Summer Analyst | Toronto | Apr 23 | Apr 30 |
+| **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Investment-Banking-Summer-Analyst--Summer-2025-_R_1342828?source=Linkedin)** | Investment Banking | Toronto | Apr 23 | May 3 |
+| **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Corporate-Banking--Summer-2025-Analyst_2408475?source=LinkedIn)** | Coprorate Banking | Toronto | Apr 23 | May 5 |
+| **[Scotiabank](https://jobs.scotiabank.com/job/Toronto-GBM-Investment-Banking-InternCo-op-Summer-2025-ON/580061617/)** | Investment Banking | Toronto | Apr 23 | Apr 29 |
 | **[Deloitt](https://careers.deloitte.ca/job/Multiple-Locations%2C-Canada-Audit-&-Assurance-Co-opIntern-2025-Multiple-Locations/1132017000/)** | Audit & Assurance | Multiple Locations | Apr 12 | Apr 30 |
 | **[KPMG](https://careers.kpmg.ca/jobs/23391?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn)** | Risk Consulting | Toronto | Mar 24 | Apr 7 |
 | **[Bank of America](https://campus.bankofamerica.com/careers/canada__toronto__global_corporate_banking_summer_analyst_program__2025.html)** | Summer Analyst | Toronto | Mar 9 | 🔒 |
