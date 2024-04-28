@@ -16,7 +16,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 ⚠️ - Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide 🌎. 
 
-⚠️ - Additionally, business internships tend to be posted earlier in the season than tech roles ⏳. 
+⚠️ - Additionally, business internships tend to be posted earlier in the season than tech roles, do not be turned away by the quantity of each type of role in different parts of the season ⏳. 
 
 ⚠️ - Indicates that internship applications are closed 🔒. 
 
