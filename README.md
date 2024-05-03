@@ -1,8 +1,8 @@
-# Canadian Tech And Business Internships - Summer 2025
+# Canadian Tech And Finance/Business Internships - Summer 2025
 
-![Technology And Business Internships Summer 2025](https://github.com/IsaiahIruoha/Canadian-Tech-And-Business-Internships-Summer-2025/blob/main/assets/background.jpg)
+![Technology And Finance/Business Internships Summer 2025](https://github.com/IsaiahIruoha/Canadian-Tech-And-Business-Internships-Summer-2025/blob/main/assets/background.jpg)
 
-Welcome to a collection of **technology** and **finance** related internships for the **Summer 2025** term in Canada!
+Welcome to a collection of **technology** and **business/finance** related internships for the **Summer 2025** term in Canada!
 
 This repository serves as a hub for internship opportunities in Canada, specifically tailored for individuals interested in roles related to **technology** and **business**, as well as related fields. Internship postings will be regularly updated, and contributions from the community are highly encouraged.
 
@@ -24,7 +24,9 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[National Bank](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 25 | May 10 |)** | Investment Banking | Toronto | Apr 23 | May 5 |
+| **[National Bank](https://emplois.bnc.ca/en_CA/careers/JobDetail/CC-59935-ETUDIANT-STAGIAIRE-CADRE/20481)** | Employee Experience Development Plan | Montreal | May 1 | Unknown |
+| **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Inclusion Scholarship & Analyst Position | Multiple Locations | May 1 | May 5 |
+| **[National Bank](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 25 | May 10 |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 23 | May 5 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Quantitative Developer | Toronto | Apr 23 | Apr 30 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Generalist Summer Analyst | Toronto | Apr 23 | Apr 30 |
