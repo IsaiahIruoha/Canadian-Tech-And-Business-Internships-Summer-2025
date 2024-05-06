@@ -24,6 +24,8 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Summer-Associate--Summer-2025-_R_1345476?source=Linkedin)** | Global Markets Summer Associate | Toronto | May 6 | May 10 |
+| **[OMERS](https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Canada/Student--Global-Equities--Summer-2025--4-Months-_JR-5929?source=LinkedIn)** | Global Equities Intern | Toronto | May 6 | Unknown |
 | **[National Bank](https://emplois.bnc.ca/en_CA/careers/JobDetail/CC-59935-ETUDIANT-STAGIAIRE-CADRE/20481)** | Employee Experience Development Plan | Montreal | May 1 | Unknown |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Inclusion Scholarship & Analyst Position | Multiple Locations | May 1 | May 5 |
 | **[National Bank](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 25 | May 10 |
