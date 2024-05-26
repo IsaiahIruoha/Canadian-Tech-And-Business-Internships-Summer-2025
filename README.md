@@ -24,6 +24,8 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Konrad](https://www.konrad.com/careers/job/associate-consultant-intern-may-2025-4-months_5997762003)** | Associate Consultant Intern | Toronto | May 26 | Unknown |
+| **[Konrad](https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003)** | Software Developer Intern | Toronto | May 26 | Unknown |
 | **[CapitalOne](https://www.capitalonecareers.ca/job/toronto/intern-business-analyst-summer-2025/1733/64880507952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Global Business Analyst Intern | Toronto | May 7 | June 9 |
 | **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Summer-Associate--Summer-2025-_R_1345476?source=Linkedin)** | Global Markets Summer Associate | Toronto | May 6 | May 10 |
 | **[OMERS](https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Canada/Student--Global-Equities--Summer-2025--4-Months-_JR-5929?source=LinkedIn)** | Global Equities Intern | Toronto | May 6 | Unknown |
