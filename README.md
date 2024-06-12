@@ -26,12 +26,12 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 | ------- | ---- | -------- | ------ | ----------- |
 | **[Konrad](https://www.konrad.com/careers/job/associate-consultant-intern-may-2025-4-months_5997762003)** | Associate Consultant Intern | Toronto | May 26 | Unknown |
 | **[Konrad](https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003)** | Software Developer Intern | Toronto | May 26 | Unknown |
-| **[CapitalOne](https://www.capitalonecareers.ca/job/toronto/intern-business-analyst-summer-2025/1733/64880507952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Global Business Analyst Intern | Toronto | May 7 | June 9 |
-| **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Summer-Associate--Summer-2025-_R_1345476?source=Linkedin)** | Global Markets Summer Associate | Toronto | May 6 | May 10 |
+| **[CapitalOne](https://www.capitalonecareers.ca/job/toronto/intern-business-analyst-summer-2025/1733/64880507952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Global Business Analyst Intern | Toronto | May 7 | 🔒 |
+| **[TD](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Summer-Associate--Summer-2025-_R_1345476?source=Linkedin)** | Global Markets Summer Associate | Toronto | May 6 | 🔒 |
 | **[OMERS](https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Canada/Student--Global-Equities--Summer-2025--4-Months-_JR-5929?source=LinkedIn)** | Global Equities Intern | Toronto | May 6 | Unknown |
 | **[National Bank](https://emplois.bnc.ca/en_CA/careers/JobDetail/CC-59935-ETUDIANT-STAGIAIRE-CADRE/20481)** | Employee Experience Development Plan | Montreal | May 1 | Unknown |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Inclusion Scholarship & Analyst Position | Multiple Locations | May 1 | 🔒 |
-| **[National Bank](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 25 | May 10 |
+| **[National Bank](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 25 | 🔒 |
 | **[CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Global-Investment-Banking--Summer-2025-Analyst_2408765)** | Investment Banking | Toronto | Apr 23 | 🔒 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Quantitative Developer | Toronto | Apr 23 | 🔒 |
 | **[BMO](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Summer-2025-Global-Markets-Analyst--Generalist---Quantitative-Developer---Toronto_R240010117)** | Generalist Summer Analyst | Toronto | Apr 23 | 🔒 |
