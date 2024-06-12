@@ -24,6 +24,8 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[McKinsey](https://jobs.mckinsey.com/careers/ApplicationMethods?folderId=88565)** | Sophomore Summer Business Associate | Toronto | May 26 |  🔒 |
+| **[Bain & Company](https://www.bain.com/careers/find-a-role/position/?jobid=10401)** | Associate Consultant Intern | Toronto | May 26 | Unknown |
 | **[Konrad](https://www.konrad.com/careers/job/associate-consultant-intern-may-2025-4-months_5997762003)** | Associate Consultant Intern | Toronto | May 26 | Unknown |
 | **[Konrad](https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003)** | Software Developer Intern | Toronto | May 26 | Unknown |
 | **[CapitalOne](https://www.capitalonecareers.ca/job/toronto/intern-business-analyst-summer-2025/1733/64880507952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Global Business Analyst Intern | Toronto | May 7 | 🔒 |
