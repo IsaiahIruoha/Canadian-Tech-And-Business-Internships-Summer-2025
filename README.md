@@ -24,6 +24,9 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[BlackRock](https://blackrock.dejobs.org/toronto-on/2025-summer-internship-program-amers/0E40026D6FEF440C89FE7388F9616B00/job/?vs=5087)** | Summer Internship Program | Toronto | Jun 26 |  Unknown |
+| **[Scotiabank](https://jobs.scotiabank.com/Scotiabank%20(default)/job/Toronto-Global-Banking-and-Markets-Sales-and-Trading-InternCo-op-Summer-2025-ON/581986617)** | Sales and Trading Intern | Toronto | Jun 26 |  Jul 1 |
+| **[Ansys](https://careers.ansys.com/job/Waterloo-SpringSummer-2025-Software-Development-Intern-%28Mechanical-or-Aerospace-BS%29-ON-N2J4G8/1178501500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Development Intern | Waterloo | Jun 12 |  Unknown |
 | **[Google](https://www.glassdoor.ca/job-listing/software-developer-intern-ms-summer-2025-google-JV_IC2281069_KO0,40_KE41,47.htm?jl=1009326848649&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineering Intern | Toronto | Jun 17 |  🔒 |
 | **[McKinsey](https://jobs.mckinsey.com/careers/ApplicationMethods?folderId=88565)** | Sophomore Summer Business Associate | Toronto | May 26 |  🔒 |
 | **[Bain & Company](https://www.bain.com/careers/find-a-role/position/?jobid=10401)** | Associate Consultant Intern | Toronto | May 26 | Unknown |
