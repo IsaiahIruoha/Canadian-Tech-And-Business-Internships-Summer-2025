@@ -24,6 +24,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Sagard](https://boards.greenhouse.io/sagardcareers/jobs/4408307005?utm_source=Simplify&gh_src=Simplify)** | Summer Analyst | Toronto | Jul 3 |  Unknown |
 | **[BlackRock](https://blackrock.dejobs.org/toronto-on/2025-summer-internship-program-amers/0E40026D6FEF440C89FE7388F9616B00/job/?vs=5087)** | Summer Internship Program | Toronto | Jun 26 |  Unknown |
 | **[Scotiabank](https://jobs.scotiabank.com/Scotiabank%20(default)/job/Toronto-Global-Banking-and-Markets-Sales-and-Trading-InternCo-op-Summer-2025-ON/581986617)** | Sales and Trading Intern | Toronto | Jun 26 |  Jul 1 |
 | **[Ansys](https://careers.ansys.com/job/Waterloo-SpringSummer-2025-Software-Development-Intern-%28Mechanical-or-Aerospace-BS%29-ON-N2J4G8/1178501500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Development Intern | Waterloo | Jun 12 |  Unknown |
