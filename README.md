@@ -26,8 +26,9 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2025-Analyst_2414419?source=LinkedIn)** | Global Markets Summer Analyst | Toronto | June 29 |  Unknown |
-| **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets-Equity-Research--Summer-2025-Analyst_2414742?source=LinkedIn)** | Equity Research Summer Analyst | Toronto | June 27 |  Unknown |
+| **[GPTZero](https://jobs.ashbyhq.com/GPTZero/d7e6f3ee-8446-4ac4-b1f8-e79c9876c31a/application?utm_source=Simplify&ref=Simplify)** | Machine Learning Intern | Toronto | Jul 11 |  Unknown |
+| **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Summer-2025-Analyst_2414419?source=LinkedIn)** | Global Markets Summer Analyst | Toronto | Jun 29 |  Unknown |
+| **[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets-Equity-Research--Summer-2025-Analyst_2414742?source=LinkedIn)** | Equity Research Summer Analyst | Toronto | Jun 27 |  Unknown |
 | **[Sagard](https://boards.greenhouse.io/sagardcareers/jobs/4408307005?utm_source=Simplify&gh_src=Simplify)** | Summer Analyst | Toronto | Jul 3 |  Unknown |
 | **[BlackRock](https://blackrock.dejobs.org/toronto-on/2025-summer-internship-program-amers/0E40026D6FEF440C89FE7388F9616B00/job/?vs=5087)** | Summer Internship Program | Toronto | Jun 26 |  Unknown |
 | **[Scotiabank](https://jobs.scotiabank.com/Scotiabank%20(default)/job/Toronto-Global-Banking-and-Markets-Sales-and-Trading-InternCo-op-Summer-2025-ON/581986617)** | Sales and Trading Intern | Toronto | Jun 26 |  Jul 1 |
