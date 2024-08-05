@@ -26,7 +26,7 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[TikTok](https://boards.greenhouse.io/sentry/jobs/6145601?utm_source=Simplify&ref=Simplify)** | Software Engineering Intern | Vancover | Aug 3 |  Unknown |
+| **[TikTok](https://careers.tiktok.com/position/7397158652886763814/detail?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify)** | Software Engineering Intern | Vancover | Aug 3 |  Unknown |
 | **[Sentry](https://boards.greenhouse.io/sentry/jobs/6145601?utm_source=Simplify&ref=Simplify)** | Software Engineering Intern | Toronto | Aug 1 |  Unknown |
 | **[RSM Canada](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Actuarial-Services-Consulting-Intern---Summer--2025_JR103485?source=LinkedIn%20-%20Job%20Feed)** | Actuarial Services Consulting Intern | Toronto | Jul 29 |  Unknown |
 | **[BMO](https://jobs.bmo.com/ca/en/job/R240018602/BMO-Radicle-Summer-2025-Global-Markets-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Development Intern | Toronto & Calgary | Jul 11 |  Unknown |
