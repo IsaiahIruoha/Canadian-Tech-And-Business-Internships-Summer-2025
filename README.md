@@ -26,6 +26,9 @@ Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) an
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[CAA Club Group](https://jobs.caaclubgroup.ca/echelon/job/Montreal-Actuarial-Intern-Summer-2025-QC-QC-H3A-3J6/728825647/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Actuarial Intern | Montreal | Jul 18 |  Unknown |
+| **[RSM Canada](https://www.linkedin.com/jobs/view/audit-intern-summer-2025-at-rsm-canada-3993712818/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Audit Intern | Calgary | Aug 6 |  Unknown |
+| **[Macquarie Group](https://www.linkedin.com/jobs/view/2025-macquarie-commodities-and-global-markets-summer-internship-program-at-macquarie-group-3991031804/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Global Markets Summer Intern | Calgary | Aug 3 |  Unknown |
 | **[TikTok](https://careers.tiktok.com/position/7397158652886763814/detail?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify)** | Software Engineering Intern | Vancover | Aug 3 |  Unknown |
 | **[Sentry](https://boards.greenhouse.io/sentry/jobs/6145601?utm_source=Simplify&ref=Simplify)** | Software Engineering Intern | Toronto | Aug 1 |  Unknown |
 | **[RSM Canada](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Toronto/Actuarial-Services-Consulting-Intern---Summer--2025_JR103485?source=LinkedIn%20-%20Job%20Feed)** | Actuarial Services Consulting Intern | Toronto | Jul 29 |  Unknown |
