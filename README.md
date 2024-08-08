@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Uber](https://university-uber.icims.com/jobs/134087/2025-software-engineering-internship%2c-uber-career-prep-%28canada%29/job?hashed=-57551706&back=none&redirect=job)** | Software Engineer Intern | Toronto | Aug 8 |  Unknown |
 | **[CAA Club Group](https://jobs.caaclubgroup.ca/echelon/job/Montreal-Actuarial-Intern-Summer-2025-QC-QC-H3A-3J6/728825647/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Actuarial Intern | Montreal | Jul 18 |  Unknown |
 | **[RSM Canada](https://www.linkedin.com/jobs/view/audit-intern-summer-2025-at-rsm-canada-3993712818/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Audit Intern | Calgary | Aug 6 |  Unknown |
 | **[Macquarie Group](https://www.linkedin.com/jobs/view/2025-macquarie-commodities-and-global-markets-summer-internship-program-at-macquarie-group-3991031804/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Global Markets Summer Intern | Calgary | Aug 3 |  Unknown |
