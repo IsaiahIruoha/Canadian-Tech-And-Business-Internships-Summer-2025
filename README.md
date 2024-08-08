@@ -6,7 +6,7 @@ Welcome to a collection of **technology** and **business/finance** related inter
 
 This repository serves as a hub for internship opportunities in Canada, specifically tailored for individuals interested in roles related to **technology** and **business**, as well as related fields. Internship postings will be regularly updated, and contributions from the community are highly encouraged.
 
-Thanks to [jenndryden](https://github.com/elaine-zheng/summer2020internships) and [alenchen4](https://github.com/AlanChen4/Summer-2024-SWE-Internships) who maintain similar repositories from previous years for the inspiration.
+Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) and [alenchen4](https://github.com/AlanChen4/Summer-2024-SWE-Internships) who maintain similar repositories from previous years for the inspiration.
 
 ## How to Contribute:
 
