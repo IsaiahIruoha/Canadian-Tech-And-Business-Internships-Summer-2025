@@ -4,7 +4,7 @@
 
 Welcome to a collection of **technology** and **business/finance** related internships for the **Summer 2025** term in Canada!
 
-This repository serves as a hub for internship opportunities in Canada, specifically tailored for individuals interested in roles related to **technology** and **business**, as well as related fields. Internship postings will be regularly updated, and contributions from the community are highly encouraged.
+This repository serves as a hub for internship opportunities in Canada, specifically tailored for individuals interested in roles related to **technology** (Software Engineering, Data Science, Quantitative Analysis, etc) and **business** (Banking, Trading, Accounting, etc), as well as related fields. Internship postings will be regularly updated, and contributions from the community are highly encouraged.
 
 Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) and [alenchen4](https://github.com/AlanChen4/Summer-2024-SWE-Internships) who maintain similar repositories from previous years for the inspiration.
 
@@ -14,13 +14,13 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 2. Edit the README.md file and preview your changes to ensure proper formatting.
 3. Open a pull request, and your contribution will be reviewed and merged.
 
-⚠️ - Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide 🌎. 
+🌎 - Please note that this repository exclusively lists internships and co-op opportunities in **Canada** or **remote** positions worldwide
 
-⚠️ - Additionally, business internships tend to be posted earlier in the season than tech roles, so do not be turned away by the quantity of each type of role in different parts of the season ⏳. 
+⏳ - Additionally, business internships tend to be posted earlier in the season (April - August) than tech roles (July - March), so do not be turned away by the quantity of each type of role in different parts of the season 
 
-⚠️ - Indicates that internship applications are closed 🔒. 
+🔒 - Indicates that internship applications are closed.
 
-📲 I would love to connect, reach out on **[LinkedIn](https://linkedin.com/in/isaiahiruoha)** 📲.
+⭐ Stay on track of postings and leave the repository a star. ⭐
 
 # 💼 Best of luck on your summer 2025 job search!
 
