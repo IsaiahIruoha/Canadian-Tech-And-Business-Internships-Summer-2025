@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Microsoft](https://jobs.careers.microsoft.com/us/en/job/1750386/Software-Engineer-Internship-Opportunities-Vancouver-BC)** | Software Engineer Intern | Vancover | Aug 13 |  Unknown |
 | **[Uber](https://university-uber.icims.com/jobs/134087/2025-software-engineering-internship%2c-uber-career-prep-%28canada%29/job?hashed=-57551706&back=none&redirect=job)** | Software Engineer Intern | Toronto | Aug 8 |  🔒 |
 | **[CAA Club Group](https://jobs.caaclubgroup.ca/echelon/job/Montreal-Actuarial-Intern-Summer-2025-QC-QC-H3A-3J6/728825647/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Actuarial Intern | Montreal | Jul 18 |  Unknown |
 | **[RSM Canada](https://www.linkedin.com/jobs/view/audit-intern-summer-2025-at-rsm-canada-3993712818/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Audit Intern | Calgary | Aug 6 |  Unknown |
