@@ -26,7 +26,10 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--Developed-Markets--Summer-2025--4-Month-Contract-_5936?source=LinkedIn)** | Capital Markets Summer Analyst | Toronto | Aug 16 |  Unknown |
+| **[OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--External-Managers-Group--Summer-2025--4-Month-Contract-_5969)** | External Managers Capital Markets Intern | Toronto | Aug 16 |  Sep 29 |
+| **[OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--Summer-2025---4-months-_6002?source=LinkedIn)** | Quant Strategies and Research Intern | Toronto | Aug 16 |  Sep 29 |
+| **[OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Equities--Global-Funds--Summer-2025--4-Month-Contract-_5960?source=LinkedIn)** | Equities Investments Summer Analyst | Toronto | Aug 16 |  Sep 29 |
+| **[OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--Developed-Markets--Summer-2025--4-Month-Contract-_5936?source=LinkedIn)** | Capital Markets Summer Analyst | Toronto | Aug 16 |  Sep 29 |
 | **[CapitalOne](https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Business-Analyst---Summer-2025_R194251/apply)** | Summer Business Analyst | Toronto | Aug 12 |  Unknown |
 | **[PwC](https://www.linkedin.com/jobs/view/may-2025-corporate-finance-summer-intern-vancouver-at-pwc-canada-4000724048/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Corporate Finance Intern | Vancover | Aug 16 |  Unknown |
 | **[Microsoft](https://jobs.careers.microsoft.com/us/en/job/1750386/Software-Engineer-Internship-Opportunities-Vancouver-BC)** | Software Engineer Intern | Vancover | Aug 13 |  Unknown |
