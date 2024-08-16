@@ -26,6 +26,9 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--Developed-Markets--Summer-2025--4-Month-Contract-_5936?source=LinkedIn)** | Capital Markets Summer Analyst | Toronto | Aug 16 |  Unknown |
+| **[CapitalOne](https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Business-Analyst---Summer-2025_R194251/apply)** | Summer Business Analyst | Toronto | Aug 12 |  Unknown |
+| **[PwC](https://www.linkedin.com/jobs/view/may-2025-corporate-finance-summer-intern-vancouver-at-pwc-canada-4000724048/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=ca)** | Corporate Finance Intern | Vancover | Aug 16 |  Unknown |
 | **[Microsoft](https://jobs.careers.microsoft.com/us/en/job/1750386/Software-Engineer-Internship-Opportunities-Vancouver-BC)** | Software Engineer Intern | Vancover | Aug 13 |  Unknown |
 | **[Uber](https://university-uber.icims.com/jobs/134087/2025-software-engineering-internship%2c-uber-career-prep-%28canada%29/job?hashed=-57551706&back=none&redirect=job)** | Software Engineer Intern | Toronto | Aug 8 |  🔒 |
 | **[CAA Club Group](https://jobs.caaclubgroup.ca/echelon/job/Montreal-Actuarial-Intern-Summer-2025-QC-QC-H3A-3J6/728825647/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Actuarial Intern | Montreal | Jul 18 |  Unknown |
