@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[PwC](https://www.linkedin.com/jobs/view/may-2025-corporate-finance-summer-intern-toronto-at-pwc-canada-4000717924/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca)** | Corporate Finance Intern | Toronto | Aug 15 |  Unknown |
 | **[SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Spend-Software-Developer-Vancouver-Brit-V6B-1A9/1087616901/)** | Software Developer Intern | Vancover | Aug 17 |  Unknown |
 | **[Goldman Sachs](https://higher.gs.com/roles/128473)** | Engineering Summer Analyst | Toronto | Aug 17 |  Unknown |
 | **[OTPP](https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Capital-Markets--External-Managers-Group--Summer-2025--4-Month-Contract-_5969)** | External Managers Capital Markets Intern | Toronto | Aug 16 |  Sep 29 |
