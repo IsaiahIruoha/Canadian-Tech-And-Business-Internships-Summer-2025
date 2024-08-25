@@ -26,10 +26,16 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[Robinhood](https://app.ripplematch.com/v2/public/job/e5771210/details)** | Softward Developer Intern, Web | Toronto | Aug 23 |  Unknown |
-| **[Robinhood](https://app.ripplematch.com/v2/public/job/6ddcb3e2/details)** | Softward Developer Intern, Backend | Toronto | Aug 23 |  Unknown |
-| **[Robinhood](https://app.ripplematch.com/v2/public/job/b6752219/details)** | Softward Developer Intern, iOS | Toronto | Aug 23 |  Unknown |
-| **[Robinhood](https://app.ripplematch.com/v2/public/job/521ba288/apply)** | Softward Developer Intern, Android | Toronto | Aug 23 |  Unknown |
+| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10517/?utm_medium=jobshare)** | Tools and Automation SW Dev – Co-op | Ottawa | Aug 23 |  Unknown |
+| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10490/?utm_medium=jobshare)** | DevOps Engineer Co-op/Intern | Ottawa | Aug 23 |  Unknown |
+| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10487/?utm_medium=jobshare)** | Software Test Automation Co-op/Intern | Ottawa | Aug 23 |  Unknown |
+| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10480/?utm_medium=jobshare)** | Software Tester Co-op/Intern | Ottawa | Aug 23 |  Unknown |
+| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10478/?utm_medium=jobshare)** | UI Web Developer Co-op/Intern | Ottawa | Aug 23 |  Unknown |
+| **[Stripe](https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_medium=jobboard&gh_src=73vnei&utm_source=linkedin)** | Software Engineer Intern | Toronto | Aug 23 | Unknown |
+| **[Robinhood](https://app.ripplematch.com/v2/public/job/e5771210/details)** | Software Developer Intern, Web | Toronto | Aug 23 |  Unknown |
+| **[Robinhood](https://app.ripplematch.com/v2/public/job/6ddcb3e2/details)** | Software Developer Intern, Backend | Toronto | Aug 23 |  Unknown |
+| **[Robinhood](https://app.ripplematch.com/v2/public/job/b6752219/details)** | Software Developer Intern, iOS | Toronto | Aug 23 |  Unknown |
+| **[Robinhood](https://app.ripplematch.com/v2/public/job/521ba288/apply)** | Software Developer Intern, Android | Toronto | Aug 23 |  Unknown |
 | **[Scotiabank](https://jobs.scotiabank.com/job/Montreal-Summer-2025-Corporate-Banking-Intern-%28Montreal%29-QC/583877117/?utm_medium=jobboard&utm_source=linkedin)** | Corporate Banking Intern | Montreal | Aug 23 |  Unknown |
 | **[PwC](https://www.linkedin.com/jobs/view/may-2025-corporate-finance-summer-intern-toronto-at-pwc-canada-4000717924/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ca)** | Corporate Finance Intern | Toronto | Aug 15 |  Unknown |
 | **[SAP](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Spend-Software-Developer-Vancouver-Brit-V6B-1A9/1087616901/)** | Software Developer Intern | Vancover | Aug 17 |  Unknown |
