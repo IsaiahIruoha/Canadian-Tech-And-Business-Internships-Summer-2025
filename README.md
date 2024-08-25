@@ -26,11 +26,6 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10517/?utm_medium=jobshare)** | Tools and Automation SW Dev – Co-op | Ottawa | Aug 23 |  Unknown |
-| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10490/?utm_medium=jobshare)** | DevOps Engineer Co-op/Intern | Ottawa | Aug 23 |  Unknown |
-| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10487/?utm_medium=jobshare)** | Software Test Automation Co-op/Intern | Ottawa | Aug 23 |  Unknown |
-| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10480/?utm_medium=jobshare)** | Software Tester Co-op/Intern | Ottawa | Aug 23 |  Unknown |
-| **[Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10478/?utm_medium=jobshare)** | UI Web Developer Co-op/Intern | Ottawa | Aug 23 |  Unknown |
 | **[Stripe](https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_medium=jobboard&gh_src=73vnei&utm_source=linkedin)** | Software Engineer Intern | Toronto | Aug 23 | Unknown |
 | **[Robinhood](https://app.ripplematch.com/v2/public/job/e5771210/details)** | Software Developer Intern, Web | Toronto | Aug 23 |  Unknown |
 | **[Robinhood](https://app.ripplematch.com/v2/public/job/6ddcb3e2/details)** | Software Developer Intern, Backend | Toronto | Aug 23 |  Unknown |
