@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Workiva](https://workiva.wd1.myworkdayjobs.com/careers/job/Sault-Ste-Marie/XMLNAME-2025-Summer-Intern---Software-Developer_R8998?utm_source=Simplify&ref=Simplify)** | Software Developer Intern | Remote | Aug 27 | Unknown |
 | **[Stripe](https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_medium=jobboard&gh_src=73vnei&utm_source=linkedin)** | Software Engineer Intern | Toronto | Aug 24 | Unknown |
 | **[Robinhood](https://app.ripplematch.com/v2/public/job/e5771210/details)** | Software Developer Intern, Web | Toronto | Aug 23 |  Unknown |
 | **[Robinhood](https://app.ripplematch.com/v2/public/job/6ddcb3e2/details)** | Software Developer Intern, Backend | Toronto | Aug 23 |  Unknown |
