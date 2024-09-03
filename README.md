@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Dropbox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1)** | Software Engineer Intern | Remote | Sep 1 | 🔒 |
 | **[SquarePoint Capital](https://boards.greenhouse.io/embed/job_app?token=6201998&utm_source=Simplify&ref=Simplify)** | Software Engineer Intern | Montreal | Aug 29 | 🔒 |
 | **[Workiva](https://workiva.wd1.myworkdayjobs.com/careers/job/Sault-Ste-Marie/XMLNAME-2025-Summer-Intern---Software-Developer_R8998?utm_source=Simplify&ref=Simplify)** | Software Developer Intern | Remote | Aug 27 | Unknown |
 | **[Stripe](https://stripe.com/jobs/listing/software-engineer-intern/6172089?utm_medium=jobboard&gh_src=73vnei&utm_source=linkedin)** | Software Engineer Intern | Toronto | Aug 24 | Unknown |
