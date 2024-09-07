@@ -26,7 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002&utm_source=Simplify&ref=Simplify)** | Software Engineer Intern (Backend) | Kanata | Sep 7 |  Unknown |
+| **[Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002&utm_source=Simplify&ref=Simplify)** | Software Engineer Intern (Backend) | Toronto | Sep 7 |  Unknown |
 | **[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1426800)** | Software Developer Intern | Kanata | Sep 4 |  Unknown |
 | **[Dropbox](https://jobs.dropbox.com/listing/6209863?gh_src=aonhf1)** | Software Engineer Intern | Remote | Sep 1 | Unknown |
 | **[SquarePoint Capital](https://boards.greenhouse.io/embed/job_app?token=6201998&utm_source=Simplify&ref=Simplify)** | Software Engineer Intern | Montreal | Aug 29 | 🔒 |
