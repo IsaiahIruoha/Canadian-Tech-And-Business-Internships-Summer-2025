@@ -26,6 +26,8 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Chubb](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12408?src=JB-10280)** | Summer 2025 Intern | Toronto | Sep 13 |  Unknown |
+| **[Pine](https://job-boards.greenhouse.io/pine/jobs/4124415008?gh_src=b8ca326a8us)** | BizOps Analyst Intern | Toronto | Sep 13 |  Unknown |
 | **[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=7602775002&gh_src=7308530a2us)** | Software Engineer Intern | Toronto | Sep 12 |  Unknown |
 | **[Lyft](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002&utm_source=Simplify&ref=Simplify)** | Software Engineer Intern (Backend) | Toronto | Sep 7 |  Unknown |
 | **[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Intern-Canada/1426800)** | Software Developer Intern | Kanata | Sep 4 |  Unknown |
