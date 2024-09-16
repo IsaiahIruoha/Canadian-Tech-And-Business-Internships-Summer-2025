@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2025-6246072/?gh_src=7j0um41)** | Software Engineer Intern | Remote | Sep 15 |  Unknown |
 | **[Chubb](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12408?src=JB-10280)** | Summer 2025 Intern | Toronto | Sep 13 |  Unknown |
 | **[Pine](https://job-boards.greenhouse.io/pine/jobs/4124415008?gh_src=b8ca326a8us)** | BizOps Analyst Intern | Toronto | Sep 13 |  Unknown |
 | **[WillowTree](https://www.willowtreeapps.com/careers/jobs?gh_jid=7602775002&gh_src=7308530a2us)** | Software Engineer Intern | Toronto | Sep 12 |  Unknown |
