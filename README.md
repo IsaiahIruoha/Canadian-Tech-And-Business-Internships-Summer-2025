@@ -26,6 +26,8 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[RBC](https://jobs.rbc.com/ca/en/job/R-0000099737/Data-Engineer-RBC-Amplify-2025-Toronto)** | Data Engineer Intern | Toronto | Sep 18 |  Oct 1 |
+| **[RBC](https://jobs.rbc.com/ca/en/job/R-0000099739/Developer-RBC-Amplify-2025-Toronto)** | Amplify Developer Intern | Toronto | Sep 18 |  Oct 1 |
 | **[Pinterest](https://www.pinterestcareers.com/jobs/6225207/software-engineering-intern-2025-toronto/?utm_source=Simplify&ref=Simplify&gh_jid=6225207)** | Software Engineer Intern | Toronto | Sep 18 |  Unknown |
 | **[Okta](https://www.okta.com/company/careers/software-engineer-intern-summer-2025-6246072/?gh_src=7j0um41)** | Software Engineer Intern | Remote | Sep 15 |  Unknown |
 | **[Chubb](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12408?src=JB-10280)** | Summer 2025 Intern | Toronto | Sep 13 |  Unknown |
