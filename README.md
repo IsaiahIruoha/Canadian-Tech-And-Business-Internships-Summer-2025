@@ -26,6 +26,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[DoorDash](https://www.linkedin.com/jobs/view/4028000153/)** | Software Engineer Intern | Toronto | Sep 19 |  Unknown |
 | **[RBC](https://jobs.rbc.com/ca/en/job/R-0000099737/Data-Engineer-RBC-Amplify-2025-Toronto)** | Data Engineer Intern | Toronto | Sep 18 |  Oct 1 |
 | **[RBC](https://jobs.rbc.com/ca/en/job/R-0000099739/Developer-RBC-Amplify-2025-Toronto)** | Amplify Developer Intern | Toronto | Sep 18 |  Oct 1 |
 | **[Pinterest](https://www.pinterestcareers.com/jobs/6225207/software-engineering-intern-2025-toronto/?utm_source=Simplify&ref=Simplify&gh_jid=6225207)** | Software Engineer Intern | Toronto | Sep 18 |  Unknown |
