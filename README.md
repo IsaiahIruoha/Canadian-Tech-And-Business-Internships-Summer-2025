@@ -1,5 +1,7 @@
 # Canadian Tech And Finance/Business Internships - Summer 2025
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IsaiahIruoha.Canadian-Tech-And-Business-Internships-Summer-2025)
+
 ![Technology And Finance/Business Internships Summer 2025](https://github.com/IsaiahIruoha/Canadian-Tech-And-Business-Internships-Summer-2025/blob/main/assets/background.jpg)
 
 Welcome to a collection of **technology** and **business/finance** related internships for the **Summer 2025** term in Canada!
