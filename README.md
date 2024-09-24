@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Scotiabank](https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-THRIVE-Summer-Internship-Program-%28Canada%29-Summer-2025-ON/584610417/)** | THRIVE Global Banking and Markets Intern | Toronto | Sep 24 |  Unknown |
 | **[Confluent](https://careers.confluent.io/jobs/14941884-2025-software-engineering-intern?utm_source=Simplify&ref=Simplify)** | Software Engineer Intern | Remote | Sep 20 |  Unknown |
 | **[DoorDash](https://www.linkedin.com/jobs/view/4028000153/)** | Software Engineer Intern | Toronto | Sep 19 |  Unknown |
 | **[RBC](https://jobs.rbc.com/ca/en/job/R-0000099737/Data-Engineer-RBC-Amplify-2025-Toronto)** | Data Engineer Intern | Toronto | Sep 18 |  Oct 1 |
