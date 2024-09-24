@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[AMD](https://careers.amd.com/careers-home/jobs/54041?lang=en-us&iis=Job%20Board&iisn=Linkedin)** | Software Engineering Intern/Co-Op (Undergrad | Summer, 2025 | Onsite/Hybrid)  | Onsite/Hybrid | Sep 24 |  Unknown |
 | **[Scotiabank](https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-THRIVE-Summer-Internship-Program-%28Canada%29-Summer-2025-ON/584610417/)** | THRIVE Global Banking and Markets Intern | Toronto | Sep 24 |  Unknown |
 | **[Confluent](https://careers.confluent.io/jobs/14941884-2025-software-engineering-intern?utm_source=Simplify&ref=Simplify)** | Software Engineer Intern | Remote | Sep 20 |  Unknown |
 | **[DoorDash](https://www.linkedin.com/jobs/view/4028000153/)** | Software Engineer Intern | Toronto | Sep 19 |  Unknown |
