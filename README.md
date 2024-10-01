@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Electronic Arts](https://ea.gr8people.com/jobs/185986/online-software-engineer-co-opinternship-fc-summer-2025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineer Intern | Remote | Oct 1 |  Unknown |
 | **[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Data-Developer_24WD82136-1?locationCountry=a30a87ed25634629aa6c3958aa2b91ea&jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352)** | Data Developer Intern | Toronto/Vancover | Sep 27 |  Unknown |
 | **[AMD](https://careers.amd.com/careers-home/jobs/54041?lang=en-us&iis=Job%20Board&iisn=Linkedin)** | Software Engineering Intern | Markham | Sep 24 |  Unknown |
 | **[Scotiabank](https://jobs.scotiabank.com/job/Toronto-Global-Banking-and-Markets-THRIVE-Summer-Internship-Program-%28Canada%29-Summer-2025-ON/584610417/)** | THRIVE Global Banking and Markets Intern | Toronto | Sep 24 |  Unknown |
