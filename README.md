@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[KhanAcademy](https://boards.greenhouse.io/khanacademy/jobs/6257065)** | Software Development Intern | Remote | Oct 4 |  Unknown |
 | **[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Tools-Developer-Intern--Remote-_R20462)** | Intern Tools Developer Intern | Remote | Oct 3 |  Unknown |
 | **[Electronic Arts](https://ea.gr8people.com/jobs/185986/online-software-engineer-co-opinternship-fc-summer-2025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineer Intern | Remote | Oct 1 |  Unknown |
 | **[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Intern--Data-Developer_24WD82136-1?locationCountry=a30a87ed25634629aa6c3958aa2b91ea&jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352)** | Data Developer Intern | Toronto/Vancover | Sep 27 |  Unknown |
