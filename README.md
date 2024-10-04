@@ -28,6 +28,8 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Google](https://www.google.com/about/careers/applications/jobs/results/90849384886870726-software-developer-intern-bs-summer-2025?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=Canada)** | Software Engineering Intern | Waterloo | Oct 4 |  Unknown |
+| **[Google](https://www.google.com/about/careers/applications/jobs/results/109828158173127366-step-intern-second-year-bachelors-student-summer-2025?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=Canada)** | STEP Intern | Waterloo | Oct 4 |  Unknown |
 | **[Ebay](https://app.ripplematch.com/v2/public/job/32beb203/apply?from_page=company_branded_page)** | Software Engineering Intern | Remote | Oct 4 |  Unknown |
 | **[KhanAcademy](https://boards.greenhouse.io/khanacademy/jobs/6257065)** | Software Development Intern | Remote | Oct 4 |  Unknown |
 | **[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Tools-Developer-Intern--Remote-_R20462)** | Intern Tools Developer Intern | Remote | Oct 3 |  Unknown |
