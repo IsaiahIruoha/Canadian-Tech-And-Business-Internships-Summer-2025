@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Ebay](https://app.ripplematch.com/v2/public/job/32beb203/apply?from_page=company_branded_page)** | Software Engineering Intern | Remote | Oct 4 |  Unknown |
 | **[KhanAcademy](https://boards.greenhouse.io/khanacademy/jobs/6257065)** | Software Development Intern | Remote | Oct 4 |  Unknown |
 | **[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Tools-Developer-Intern--Remote-_R20462)** | Intern Tools Developer Intern | Remote | Oct 3 |  Unknown |
 | **[Electronic Arts](https://ea.gr8people.com/jobs/185986/online-software-engineer-co-opinternship-fc-summer-2025?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineer Intern | Remote | Oct 1 |  Unknown |
