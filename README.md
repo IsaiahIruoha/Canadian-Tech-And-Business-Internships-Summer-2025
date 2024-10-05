@@ -28,7 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
-| **[Amazon](https://www.amazon.jobs/en/jobs/2795155/software-development-engineer-intern-2025-canada-artificial-general-intelligence)** | Software Development Intern | Remote (AI)| Oct 4 |  Unknown |
+| **[Amazon](https://www.amazon.jobs/en/jobs/2795155/software-development-engineer-intern-2025-canada-artificial-general-intelligence)** | Software Development Intern (AI) | Toronto | Oct 4 |  Unknown |
 | **[Google](https://www.google.com/about/careers/applications/jobs/results/90849384886870726-software-developer-intern-bs-summer-2025?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=Canada)** | Software Engineering Intern | Waterloo | Oct 4 |  Unknown |
 | **[Google](https://www.google.com/about/careers/applications/jobs/results/109828158173127366-step-intern-second-year-bachelors-student-summer-2025?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN&location=Canada)** | STEP Intern | Waterloo | Oct 4 |  Unknown |
 | **[Ebay](https://app.ripplematch.com/v2/public/job/32beb203/apply?from_page=company_branded_page)** | Software Engineering Intern | Remote | Oct 4 |  Unknown |
