@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Mastercard](https://careers.mastercard.com/us/en/job/R-232625/Software-Engineer-Intern-Summer-2025-Vancouver-Canada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineer Intern | Vancouver | Oct 16 |  Unknown |
 | **[Respawn Entertainment](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2025-at-respawn-entertainment-4041079107/)** | Software Engineer Intern | Vancouver | Oct 7 |  Unknown |
 | **[Wayfair](https://www.wayfair.com/careers/job/software-engineering-intern---summer-2025-%28toronto%29/7665154002/apply?gh_src=&source=&referredBy=&utm_source=Simplify)** | Software Development Intern | Toronto | Oct 5 |  Unknown |
 | **[Amazon](https://www.amazon.jobs/en/jobs/2795155/software-development-engineer-intern-2025-canada-artificial-general-intelligence)** | Software Development Intern (AI) | Toronto | Oct 4 |  Unknown |
