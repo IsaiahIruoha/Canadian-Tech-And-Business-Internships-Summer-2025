@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Amazon](https://www.amazon.jobs/en-US/applicant/jobs/2750005/apply?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)** | Software Development Intern | Toronto | Oct 16 |  Unknown |
 | **[NationalBank](https://emplois.bnc.ca/en_CA/careers/JobDetail/Canada-Summer-2025-Sales-Trading-Analyst-Internship-Calgary-Toronto-and-Montreal/22807)** | Sales and Trading Analyst | Toronto/Montreal | Oct 16 |  Unknown |
 | **[Bell](https://jobs.bell.ca/ca/en/job/BECACA420065EXTERNALENCA/2025-Internship-Program-Software-Development?utm_source=linkedin&utm_medium=phenom-feeds)** | Software Development Intern | 8 Locations | Oct 16 |  Unknown |
 | **[Mastercard](https://careers.mastercard.com/us/en/job/R-232625/Software-Engineer-Intern-Summer-2025-Vancouver-Canada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Software Engineer Intern | Vancouver | Oct 16 |  Unknown |
