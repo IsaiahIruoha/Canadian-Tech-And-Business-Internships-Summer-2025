@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Snowflake](https://careers.snowflake.com/us/en/job/7688688002?gh_jid=7688688002)** | Software Development Intern | Toronto | Oct 17 |  Unknown |
 | **[Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82683?utm_source=Simplify&ref=Simplify)** | Software Development Intern | Montreal | Oct 17 |  Oct 23 |
 | **[Amazon](https://www.amazon.jobs/en-US/applicant/jobs/2750005/apply?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)** | Software Development Intern | Toronto | Oct 16 |  Unknown |
 | **[NationalBank](https://emplois.bnc.ca/en_CA/careers/JobDetail/Canada-Summer-2025-Sales-Trading-Analyst-Internship-Calgary-Toronto-and-Montreal/22807)** | Sales and Trading Analyst | Toronto/Montreal | Oct 16 |  Unknown |
