@@ -28,6 +28,8 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[BCG X](https://careers.bcg.com/global/en/job/50484/Data-Scientist-Intern-Campus-Canada-BCG-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Data Scientist Intern (Masters) | Toronto | Oct 17 |  Unknown |
+| **[BCG X](https://careers.bcg.com/global/en/job/50486/AI-Software-Engineer-Intern-Campus-Canada-BCG-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | AI Software Engineer Intern (Masters) | Toronto | Oct 17 |  Unknown |
 | **[Workleap](https://job-boards.greenhouse.io/workleap/jobs/4543714007?utm_source=Simplify&ref=Simplify)** | Software Development Intern | Toronto | Oct 17 |  Unknown |
 | **[Snowflake](https://careers.snowflake.com/us/en/job/7688688002?gh_jid=7688688002)** | Software Development Intern | Toronto | Oct 17 |  Unknown |
 | **[Autodesk](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82683?utm_source=Simplify&ref=Simplify)** | Software Development Intern | Montreal | Oct 17 |  Oct 23 |
