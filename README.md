@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Clio](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?utm_source=Simplify)** | Software Developer Intern | Toronto + 2 | Oct 17 |  Unknown |
 | **[Marvell](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern---Bachelors_2401848?utm_source=Simplify&ref=Simplify)** | Firmware Engineer Intern | Toronto | Oct 17 |  Unknown |
 | **[BCG X](https://careers.bcg.com/global/en/job/50484/Data-Scientist-Intern-Campus-Canada-BCG-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Data Scientist Intern (Masters) | Toronto | Oct 17 |  Unknown |
 | **[BCG X](https://careers.bcg.com/global/en/job/50486/AI-Software-Engineer-Intern-Campus-Canada-BCG-X?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | AI Software Engineer Intern (Masters) | Toronto | Oct 17 |  Unknown |
