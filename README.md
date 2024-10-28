@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[BMO](https://jobs.bmo.com/ca/en/job/R240025779/Commercial-Banking-Credit-Analyst-Internship-Summer-2025-4-Months-Toronto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Commercial Banking Intern | Toronto | Oct 28 |  Unknown |
 | **[Fidelity](https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada/job/Investment-Rotational-Summer-Internship_J53348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Investment Rotational Intern | Toronto | Oct 28 |  Unknown |
 | **[Amazon](https://lnkd.in/gFasM9fD)** | Software Development Intern | Toronto + 5 | Oct 17 |  Unknown |
 | **[Demiurge](https://jobs.lever.co/demiurgestudios/5b325f22-aaf3-4d0f-9535-2a0520afe35f/apply?lever-source=Simplify)** | Video Game Engineer Intern | Remote in CA | Oct 17 |  Unknown |
