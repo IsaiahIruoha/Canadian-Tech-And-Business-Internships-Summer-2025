@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[BCE, Inc.](https://www.canadianjobforce.ca/jobs/search?id=2741876162&aff=5F88FB33-7ECC-414D-823B-00B1224EBD09&rgv=3&mlp=1)** | 2025 Internship Program- Software Development | Toronto + 7 | Nov 3 |  Unknown |
 | **[Invinity](https://jobs.lever.co/invinity/f69558c2-0610-4560-a1fb-015c7746b9cf)** | Software Engineering Intern | Vancouver | Nov 3 |  Unknown |
 | **[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/sophomoresummerbusinessanalyst-88565)** | Sophomore Summer Business Analyst | Toronto | Oct 28 |  Nov 23 |
 | **[BMO](https://jobs.bmo.com/ca/en/job/R240025779/Commercial-Banking-Credit-Analyst-Internship-Summer-2025-4-Months-Toronto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Commercial Banking Intern | Toronto | Oct 28 |  Unknown |
