@@ -28,6 +28,7 @@ Thanks to [jenndryden](https://github.com/jenndryden/Canadian-Tech-Internships-S
 
 | Company | Role | Location | Date Posted | Status |
 | ------- | ---- | -------- | ------ | ----------- |
+| **[Quora](https://jobs.ashbyhq.com/quora/41c6c3f3-e891-43d5-880b-f13d977a32d0?employmentType=Intern)** | Machine Learning Intern | Remote | Nov 8 |  Unknown |
 | **[Sierra Ce](https://fr.ca.sercanto.com/detail/a/flight-software-engineering-intern-summer-2025_vancouver_45780145?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)** | Flight Software Development Intern | Montreal | Nov 3 |  Unknown |
 | **[BCE, Inc.](https://www.canadianjobforce.ca/jobs/search?id=2741876162&aff=5F88FB33-7ECC-414D-823B-00B1224EBD09&rgv=3&mlp=1)** | 2025 Internship Program- Software Development | Toronto + 7 | Nov 3 |  Unknown |
 | **[Invinity](https://jobs.lever.co/invinity/f69558c2-0610-4560-a1fb-015c7746b9cf)** | Software Engineering Intern | Vancouver | Nov 3 |  Unknown |
