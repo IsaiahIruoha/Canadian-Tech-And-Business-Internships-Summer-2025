@@ -1,4 +1,4 @@
-# Canadian Tech And Finance/Business Internships - Summer 2025
+# Canadian Tech And Finance/Business Internships - Summer 2025 (No Longer Active as of Jan 2025)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=IsaiahIruoha.Canadian-Tech-And-Business-Internships-Summer-2025)
 
